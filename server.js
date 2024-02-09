@@ -43,7 +43,7 @@ const swaggerOptions = {
         description: "Localhost development server"
       },
       {
-        url: "https://blogging-platform-og12.onrender.com",
+        url: "https://blogging-platform-qxer.onrender.com",
         description: "Remote deployment on render.com"
       }
     ],
